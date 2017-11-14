@@ -5,7 +5,7 @@
 	My project is called "The Car Collective". The idea for this came from 
 my love of all things cars. My app will enable users to enter vehicle 
 info such as make/model, vehicle stats such as 0-60 times, mpg, horsepower, 
-style(4door, 2door ect). Users will be able to do side by side comparisons 
+style(4door, 2door ect), add links to other useful websites(autotrade,edmunds ect). Users will be able to do side by side comparisons 
 of vehicles in the database, or just view a particular vehicles info. Users 
 will be able to review vehicles in the database. Ideally the users will use 
 this tool to be better informed when they are about to make a new purchase.
