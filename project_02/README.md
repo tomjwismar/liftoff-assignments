@@ -4,10 +4,10 @@
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 	
-	- https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Index-wire.PNG
-	- https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Login-wire.PNG
-	- https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/UserDashboard-wire.PNG
-	- https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Search-wire.PNG
+* https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Index-wire.PNG
+* https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Login-wire.PNG
+* https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/UserDashboard-wire.PNG
+* https://github.com/tomjwismar/liftoff-assignments/blob/master/project_02/Search-wire.PNG
 	
 	
 ## Project Tracker
